@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 蟻喻經
+#+DATE: 2015-08-30 19:30:43.507881
+#+PROPERTY: JUAN 0
